@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wes, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Wes, an <a href="https://linkedin.com/in/Josh">Passionate Cybersecurity Analyst</a>☺</h1>
 
 <h2>👨‍💻 Cybersecurity and Information Technology Projects:</h2>
 
