@@ -11,6 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/WesGough/azure-network-protocols)
 - <b>Azure SOC </b>
   - <b>[Creating a Live SOC/Honeynet in Azure](https://github.com/WesGough/Azure-SOC).
+- <b>OpenVAS </b>
+  - <b>[Azure Vulnerability Management](https://github.com/WesGough/openvas).
 
 <h2>🤳Connect with me:</h2>
 
