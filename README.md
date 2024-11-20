@@ -65,6 +65,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- CTI Integration
+- Network Packet Indexer
+- Microsoft Sentinel Playbooks
 - Detection Lab
-- SOC Automation Project
+- SplunkSOAR Integration
+- Azure SOC/Honeynet
 
