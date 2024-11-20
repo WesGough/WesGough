@@ -19,7 +19,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -48,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Analyst%20(LevelD)-0052CC?style=for-the-badge&logo=Google&logoColor=white" />
@@ -65,7 +64,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- CTI Integration
+- <a href="https://github.com/wesgough/cti-integration">CTI Integration</a>
 - Network Packet Indexer
 - Microsoft Sentinel Playbooks
 - Detection Lab
