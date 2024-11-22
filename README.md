@@ -65,7 +65,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/wesgough/cti-integration">CTI Integration</a>
-- Network Packet Indexer
+- <a href="https://github.com/WesGough/Network-Packer-Indexer">Network Packet Indexer</a>
 - Microsoft Sentinel Playbooks
 - Detection Lab
 - SplunkSOAR Integration
