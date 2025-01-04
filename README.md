@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setup and Config of a Network Packet Indexer  | <a href="https://github.com/WesGough/Network-Packer-Indexer">Arkime</a>|
+| Setup and Config of a Network Packet Indexer  | <a href="https://github.com/WesGough/Arkime">Arkime</a>|
 | SIEM Integration/Threat Intelligence Feeds    | <a href="https://github.com/wesgough/cti-integration">CTI Integration</a>|
 | Microsoft Azure Linux Honeypot and Playbooks  | <a href="http://github.com/WesGough/MicrosoftSentinelPlaybooks">Microsoft Sentinel Playbooks</a>|
 | Incident Response Planning and Execution      | Coming Soon...|
@@ -72,7 +72,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/wesgough/cti-integration">CTI Integration</a>
-- <a href="https://github.com/WesGough/Network-Packer-Indexer">Network Packet Indexer</a>
+- <a href="https://github.com/WesGough/Arkime">Network Packet Indexer</a>
 - <a href="http://github.com/WesGough/MicrosoftSentinelPlaybooks">Microsoft Sentinel Playbooks</a>
 - Detection Lab
 - SplunkSOAR Integration
