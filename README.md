@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Setup and Config of a Network Packet Indexer  | <a href="https://github.com/WesGough/Network-Packer-Indexer">Arkime</a>|
 | SIEM Integration/Threat Intelligence Feeds    | <a href="https://github.com/wesgough/cti-integration">CTI Integration</a>|
-| Microsoft Sentinel Playbooks                  | Coming Soon...|
+| Microsoft Azure Linux Honeypot and Playbooks  | <a href="http://github.com/WesGough/MicrosoftSentinelPlaybooks">Microsoft Sentinel Playbooks</a>|
 | Incident Response Planning and Execution      | Coming Soon...|
 | Case Management with TheHive                  | Coming Soon...|
 | Scripting and Automation for Threat Mitigation | Coming Soon...|
