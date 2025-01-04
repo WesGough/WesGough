@@ -61,6 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CSAP-FF69B4?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSIS-00CC99?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2-00A651?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pentest%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
