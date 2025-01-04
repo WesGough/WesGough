@@ -55,6 +55,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Lv%201-007FFF?style=for-the-badge&logo=Microsoft%20Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20Essentials-3333FF?style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Analyst%20(LevelD)-0052CC?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-0070BB?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-0066CC?style=for-the-badge&logo=CompTIA&logoColor=white" />
